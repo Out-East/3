@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\bin\Debug\net6.0\3 Pianino.exe
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\bin\Debug\net6.0\3 Pianino.deps.json
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\bin\Debug\net6.0\3 Pianino.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\bin\Debug\net6.0\3 Pianino.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\bin\Debug\net6.0\3 Pianino.pdb
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\refint\3 Pianino.dll
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.pdb
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\3 Pianino.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\2 курс\Системное программирование\3 Pianino\3 Pianino\obj\Debug\net6.0\ref\3 Pianino.dll
